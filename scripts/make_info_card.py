@@ -41,7 +41,7 @@ ROWS = [
     ("host",),
     ("kv", "Now", "Software Developer @ CHI Technologies"),
     ("kv", "Focus", "Frontend systems + AI healthcare UI"),
-    ("kv", "Edu", "BS CIS, PIEAS | CGPA 3.46"),
+    ("kv", "Edu", "BS CIS, PIEAS"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Frontend", "React, Next.js, TS, Tailwind, Motion"),
