@@ -10,8 +10,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Ahad ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Ahad developer information card" /></td>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Muhammad Ahad Siddique ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Muhammad Ahad Siddique developer information card" /></td>
 </tr>
 </table>
 

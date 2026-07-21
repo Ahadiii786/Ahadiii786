@@ -39,19 +39,19 @@ ACCENT = "#22d3ee"
 # ("gap",)                     -> vertical space
 ROWS = [
     ("host",),
-    ("kv", "Now", "Software Engineer @ Dock.us"),
-    ("kv", "Prev", "Software Engineer @ CHI"),
-    ("kv", "Edu", "BS CS, PIEAS '26"),
+    ("kv", "Now", "Software Developer @ CHI Technologies"),
+    ("kv", "Focus", "Frontend systems + AI healthcare UI"),
+    ("kv", "Edu", "BS CIS, PIEAS | CGPA 3.46"),
     ("gap",),
     ("sec", "Stack"),
-    ("kv", "Frontend", "React, Next.js, TypeScript, R3F"),
-    ("kv", "Backend", "Node, NestJS, GraphQL, Python"),
-    ("kv", "AI / ML", "LangChain, Vercel AI SDK, OpenAI"),
-    ("kv", "Cloud", "AWS, Docker, Vercel, Prisma"),
+    ("kv", "Frontend", "React, Next.js, TS, Tailwind, Motion"),
+    ("kv", "Backend", "Node, NestJS, Express, REST, JWT"),
+    ("kv", "Data", "PostgreSQL, MongoDB, Prisma, ChromaDB"),
+    ("kv", "AI / ML", "OpenAI GPT-4o, LangGraph, PyTorch"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "Building AI-powered tools for the future"),
-    ("bul", "Taught 200+ students about AI and programming"),
+    ("bul", "Shipping EHR, teleconsultation and dashboards"),
+    ("bul", "GDG Co-Lead; President, PIEAS AI Society"),
 ]
 
 
